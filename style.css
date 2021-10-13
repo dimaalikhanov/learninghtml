@@ -1,0 +1,12 @@
+table {
+  color:green
+}
+[colspan="2"] {
+  color:orange
+}
+.privet {
+  color: green
+}
+#ideveloper {
+  font-weight: bold;
+}
