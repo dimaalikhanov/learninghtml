@@ -20,3 +20,4 @@ let car2 = {
 car1.color = car2.color;
 
 console.log(car1, car2);
+
